@@ -32,12 +32,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Maneesh-Relanto/Rate-Limiter-algorithm.git"
+    "url": "https://github.com/maneesh-kumar-thakur/Rate-Limiter-algorithm.git"
   },
   "bugs": {
-    "url": "https://github.com/Maneesh-Relanto/Rate-Limiter-algorithm/issues"
+    "url": "https://github.com/maneesh-kumar-thakur/Rate-Limiter-algorithm/issues"
   },
-  "homepage": "https://github.com/Maneesh-Relanto/Rate-Limiter-algorithm#readme",
+  "homepage": "https://github.com/maneesh-kumar-thakur/Rate-Limiter-algorithm#readme",
   "engines": {
     "node": ">=16.0.0"
   },
