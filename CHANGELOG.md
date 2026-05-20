@@ -139,10 +139,10 @@ const bucket = new RedisTokenBucket(redis, 'key', 100, 100/60);
 
 ## Support
 
-- **Issues:** https://github.com/Maneesh-Relanto/Rate-Limiter-algorithm/issues
-- **Documentation:** https://github.com/Maneesh-Relanto/Rate-Limiter-algorithm/tree/main/docs
+- **Issues:** https://github.com/maneesh-kumar-thakur/Rate-Limiter-algorithm/issues
+- **Documentation:** https://github.com/maneesh-kumar-thakur/Rate-Limiter-algorithm/tree/main/docs
 - **License:** MIT
 
 ---
 
-*For older releases, see [GitHub Releases](https://github.com/Maneesh-Relanto/Rate-Limiter-algorithm/releases)*
+*For older releases, see [GitHub Releases](https://github.com/maneesh-kumar-thakur/Rate-Limiter-algorithm/releases)*
